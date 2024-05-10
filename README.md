@@ -2,7 +2,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=800080&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Wilian+Costa;I'm+22+years+old;I+from+Brasil,+BA;I+study+Analise+De+QA;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=800080&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Wilian+Costa;I'm+22+years+old;I+am+from+Brazil,+BA;I+am+a+QA+analyst;Be+Welcome!+:%29)](https://git.io/typing-svg)
 ##
 <div align="Center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Wilianznt&show_icons=true&count_private=true&hide_border=true&title_color=800080&icon_color=800080&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
@@ -23,7 +23,7 @@
   <a href="https://postman.com" target="_blank"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"></a>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
-  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117">
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
   <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
 </div>
 
