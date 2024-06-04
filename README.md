@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Wilian+Costa;I'm+22+years+old;I+am+from+Brazil,+BA;I+am+a+QA+analyst;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000FF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Wilian+Costa;Eu+tenho+23+anos;Sou+Baiano;Seja+bem+vindo:%29)](https://git.io/typing-svg)
 
 
 **<span style="font-size: 20px;">Um Aventureiro em busca de novos desafios e aprimoramento!🌐</span>**
