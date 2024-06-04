@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Wilian+Costa;I'm+22+years+old;I+am+from+Brazil,+BA;I+am+a+QA+analyst;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
-**<span style="font-size: 20px;">Aventureiro em busca de novos desafios e aprimoramento!🌐</span>**
+**<span style="font-size: 20px;">Um Aventureiro em busca de novos desafios e aprimoramento!🌐</span>**
 
 Sou um Analista de QA dedicado e organizado, apaixonado por desbravar o mundo do software em busca de falhas e otimizações. Minha sede por conhecimento me impulsiona a aprender e crescer constantemente, por isso me aventurei na área de QA, onde cada dia é uma nova expedição em busca de uma ótima qualidade.
 
