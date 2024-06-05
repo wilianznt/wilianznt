@@ -1,5 +1,17 @@
+<div align="center">
+    <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="20%" style="display:inline;">
+    <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="20%" style="display:inline;">
+    <br>
+    <h1 align="center">📡&emsp;Will&emsp;☄️</h1>
+    <p align="center">
+        <img src="https://readme-typing-svg.herokuapp.com/?lines=Wubba+Lubba+Dub-Dub!;Bem+vindo+ao+meu+Perfil;Dê+uma+olhada+ao+redor!&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50">
+    </p>
+    <br>
+   
+</div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000FF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Wilian+Costa;Eu+tenho+23+anos;Sou+da+Bahia;Seja+bem+vindo:%29)](https://git.io/typing-svg)
+
+
 
 
 **<span style="font-size: 20px;">Um Aventureiro em busca de novos desafios e aprimoramento!🌐</span>**
